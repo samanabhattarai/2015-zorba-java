@@ -6,7 +6,7 @@ int a =30;
 int b = 20;
 int c =a/b;
 
-System.out.println("addition of given a and b is " + c);
+System.out.println("division of given a and b is " + c);
 
 }
 }
